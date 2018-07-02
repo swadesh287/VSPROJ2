@@ -6,14 +6,13 @@ using System.Threading.Tasks;
 
 namespace Delegates
 {
-    [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Globalization", "CA1303:Do not pass literals as localized parameters")]
-    class Class1
+     class Class1
     {
         public static void WriteToScreen(string str)
         {
             //Console.WriteLine("The String is: {0}", str);
 
-            Console.WriteLine("Print");
+            Console.WriteLine("Print2");
 
         }
 
