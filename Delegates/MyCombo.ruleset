@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RuleSet Name="MyCombo" ToolsVersion="11.0">
+  <Include Path="myrules2.ruleset" Action="Default" />
+  <Include Path="myruleset.ruleset" Action="Default" />
+</RuleSet>
